@@ -13,7 +13,7 @@
 - name: Greenhouse Gases
   link: https://github.com/BellevueDSCLoyd/GreenhouseGas
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/climatechange.jpg
-  description: A visual exploration of climate change to explain the crisis.
+  description: A visual exploration of climate change explaining the crisis.
 - name: Small Business Loan Data 
   link: https://github.com/BellevueDSCLoyd/SBALoan.git
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/loan.jpg
@@ -33,7 +33,7 @@
 - name: Python Weather API
   link:
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/weather.jpg
-  description: The following code pulls information from the Weather Channel API.
+  description: Python code to pull location specific weather information from the Weather Channel's API.
 - name: Police Fatalities using R
   link:
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/police.jpg
