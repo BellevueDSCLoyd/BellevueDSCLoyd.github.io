@@ -25,10 +25,10 @@
 - name: Finding Exoplanets
   link: https://github.com/BellevueDSCLoyd/Exoplanets
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/exoplanets.jpg
-  description: Data wrangling against a dataset about exoplanets eventually loaded into Postgres.
+  description: Data wrangling against an exoplanet dataset transformed into Postgres.
 - name: Cardiac Disease Risk
   link: https://github.com/BellevueDSCLoyd/CardioProject
-  image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/heart.jpg
+  image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/heart.png
   description: This project uses a Kaggle dataset to train a model to predict heart disease.
 - name: Python Weather API
   link: https://github.com/BellevueDSCLoyd/OpenWeatherAPI
