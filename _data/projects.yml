@@ -33,7 +33,7 @@
 - name: Python Weather API
   link:
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/weather.jpg
-  description: Python code to pull location specific weather information from the Weather Channel's API.
+  description: Location specific weather information from the Weather Channel's API.
 - name: Police Fatalities using R
   link:
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/police.jpg
