@@ -35,6 +35,6 @@
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/weather.jpg
   description: Location specific weather information from the Weather Channel's API.
 - name: Police Fatalities using R
-  link: 
+  link: https://github.com/BellevueDSCLoyd/LawEnforcement
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/police.jpg
   description: Analyzing and Predicting the risk of fatalities caused by the police.
