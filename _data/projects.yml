@@ -9,15 +9,15 @@
 - name: Predicting Stroke Risk
   link:
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/stroke.jpg
-  description: Predicting Stroke Risk with a machine learning model using a dataset from Kaggle.
+  description: Predicting stroke risk using a machine learning model.
 - name: Greenhouse Gases
   link: https://github.com/BellevueDSCLoyd/GreenhouseGas
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/climatechange.jpg
-  description: A visual exploration of climate change to explain where we are and the dangers that exist.
-- name: SBA Loan Data 
+  description: A visual exploration of climate change to explain the crisis.
+- name: Small Business Loan Data 
   link: https://github.com/BellevueDSCLoyd/SBALoan.git
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/loan.jpg
-  description: Using predictive analytics to predict loan repayment and job creation using a dataset from the SBA
+  description: Using predictive analytics to predict loan repayment and job creation.
 - name: Sixth Project
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/loan.jpg
   link:
