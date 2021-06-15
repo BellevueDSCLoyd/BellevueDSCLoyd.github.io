@@ -34,7 +34,7 @@
   link:
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/weather.jpg
   description: The following code pulls information from the Weather Channel API.
-- name: Predicting Law Enforcement Fatalities in R
+- name: Law Enforcement Fatalities using R
   link:
   image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/police.jpg
   description: Analyzing and Predicting the risk of fatalities caused by the police.
