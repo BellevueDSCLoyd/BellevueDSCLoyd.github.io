@@ -8,33 +8,33 @@
   description: Under Construction. Coming Soon.
 - name: Predicting Stroke Risk
   link:
-  image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/stroke.jpg
+  image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/stroke.jpg
   description: Predicting stroke risk using a machine learning classification model.
 - name: Greenhouse Gases
-  link: https://github.com/BellevueDSCLoyd/GreenhouseGas
-  image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/climatechange.jpg
+  link: https://github.com/SDLoyd/GreenhouseGas
+  image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/climatechange.jpg
   description: A visual exploration of climate change explaining the crisis.
 - name: Small Business Loan Data 
-  link: https://github.com/BellevueDSCLoyd/SBALoan.git
-  image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/loan.jpg
+  link: https://github.com/SDLoyd/SBALoan.git
+  image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/loan.jpg
   description: Using predictive analytics to predict loan repayment and job creation.
 - name: Cardiac Risk Random Forest
-  image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/randomforest.jpg
-  link: https://github.com/BellevueDSCLoyd/CardiacRandomForest
+  image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/randomforest.jpg
+  link: https://github.com/SDLoyd/CardiacRandomForest
   description: Classifying cardiac disease using a random forest model.
 - name: Finding Exoplanets
-  link: https://github.com/BellevueDSCLoyd/Exoplanets
-  image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/exoplanets.jpg
+  link: https://github.com/SDLoyd/Exoplanets
+  image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/exoplanets.jpg
   description: Data wrangling against an exoplanet dataset transformed into Postgres.
 - name: Cardiac Disease Risk
-  link: https://github.com/BellevueDSCLoyd/CardioProject
-  image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/heart.png
+  link: https://github.com/SDLoyd/CardioProject
+  image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/heart.png
   description: This project uses a Kaggle dataset to train a model to predict heart disease.
 - name: Python Weather API
-  link: https://github.com/BellevueDSCLoyd/OpenWeatherAPI
-  image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/weather.jpg
+  link: https://github.com/SDLoyd/OpenWeatherAPI
+  image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/weather.jpg
   description: Location specific weather information from the Open Weather API.
 - name: Police Fatalities using R
-  link: https://github.com/BellevueDSCLoyd/LawEnforcement
-  image: https://raw.githubusercontent.com/BellevueDSCLoyd/bellevueDSCLoyd.github.io/master/assets/images/police.jpg
+  link: https://github.com/SDLoyd/LawEnforcement
+  image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/police.jpg
   description: Analyzing and Predicting the risk of fatalities caused by the police.
