@@ -30,11 +30,11 @@
   link: https://github.com/SDLoyd/CardioProject
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/heart.png
   description: This project uses a Kaggle dataset to train a model to predict heart disease.
-- name: Python Weather API
+- name: Open Weather API 
   link: https://github.com/SDLoyd/OpenWeatherAPI
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/weather.jpg
   description: Location specific weather information from the Open Weather API.
-- name: Police Fatalities using R
+- name: Police Shooting Fatalities
   link: https://github.com/SDLoyd/LawEnforcement
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/police.jpg
   description: Analyzing and Predicting the risk of fatalities caused by the police.
