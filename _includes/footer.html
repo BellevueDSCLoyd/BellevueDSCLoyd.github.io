@@ -27,15 +27,11 @@
             </div>
 
             <!--Link Section-->
-            <div class="column has-text-white">
-                <h3></h3>
-                {% for sitepage in site.html_pages offset: 4 %}
-                {% unless sitepage.url == '/'  limit: 2 %}
+            <div class="column has-text-grey-lighter">
+                <h3>Cover Image by Mike Petrucci</h3>
                 <li>
-                    <a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a>
+                    <a href="https://unsplash.com/photos/kluhXsuW7Is">unsplash.com</a>
                 </li>
-                {% endunless %}
-                {% endfor %}                
             </div>
 
         </div>
