@@ -9,7 +9,7 @@
 - name: Predicting Stroke Risk
   link: https://github.com/SDLoyd/Stroke
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/stroke.jpg
-  description: Predicting stroke risk with a classification model. A work in process.
+  description: Predicting stroke risk with a classification model. A work in progress.
 - name: Greenhouse Gases
   link: https://github.com/SDLoyd/GreenhouseGas
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/climatechange.jpg
