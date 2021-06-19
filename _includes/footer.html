@@ -18,7 +18,8 @@
                         <div class="column is-marginless">
                             <h5 class="has-text-grey-lighter">{{site.author-name}}</h5>
                             <div class="content has-text-grey">
-                                <p>{{site.author-about | truncate: 75 }}</p>
+                                <p>{{site.author-about | truncate: 166
+ }}</p>
                             </div>
                         </div>
                     </div>
@@ -27,7 +28,7 @@
 
             <!--Link Section-->
             <div class="column has-text-white">
-                <h3>More Links</h3>
+                <h3></h3>
                 {% for sitepage in site.html_pages offset: 4 %}
                 {% unless sitepage.url == '/'  limit: 2 %}
                 <li>
