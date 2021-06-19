@@ -1,11 +1,13 @@
 - name: Upcoming TBD Two
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   link:
-  description: Under Construction. Coming Soon
+  description: Under Construction. 
+Coming Soon!
 - name: Upcoming TBD One
   link:
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: Under Construction. Coming Soon.
+  description: Under Construction. 
+Coming Soon!
 - name: Predicting Stroke Risk
   link:
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/stroke.jpg
