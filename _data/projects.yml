@@ -11,7 +11,7 @@
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/stroke.jpg
   description: Predicting stroke risk with a classification model. A work in progress.
 - name: Greenhouse Gases
-  link: https://github.com/SDLoyd/GreenhouseGas
+  link: https://sdloyd.github.io/GreenhouseGas/
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/climatechange.jpg
   description: A visual exploration of climate change explaining the crisis.
 - name: Small Business Loan Data 
