@@ -35,6 +35,6 @@
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/weather.jpg
   description: Location specific weather information from the Open Weather API.
 - name: Police Shooting Fatalities
-  link: https://github.com/SDLoyd/LawEnforcement
+  link: https://sdloyd.github.io/LawEnforcement/
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/police.jpg
   description: Analyzing and Predicting the risk of fatalities caused by the police.
