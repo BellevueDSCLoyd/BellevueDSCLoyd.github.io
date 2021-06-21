@@ -15,12 +15,12 @@
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/climatechange.jpg
   description: A visual exploration of climate change explaining the crisis.
 - name: Small Business Loan Data 
-  link: https://sdloyd.github.io/CardiacRandomForest/
+  link: https://sdloyd.github.io/SBALoan/
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/loan.jpg
   description: Using predictive analytics to predict loan repayment and job creation.
 - name: Random Forest Classification
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/randomforest.jpg
-  link: https://github.com/SDLoyd/CardiacRandomForest
+  link: https://sdloyd.github.io/CardiacRandomForest/
   description: Classifying cardiac disease using a random forest model.
 - name: Finding Exoplanets
   link: https://sdloyd.github.io/Exoplanets/
