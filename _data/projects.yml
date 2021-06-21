@@ -15,7 +15,7 @@
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/climatechange.jpg
   description: A visual exploration of climate change explaining the crisis.
 - name: Small Business Loan Data 
-  link: https://sdloyd.github.io/SBALoan/
+  link: https://sdloyd.github.io/CardiacRandomForest/
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/loan.jpg
   description: Using predictive analytics to predict loan repayment and job creation.
 - name: Random Forest Classification
