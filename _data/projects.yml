@@ -27,7 +27,7 @@
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/exoplanets.jpg
   description: Data wrangling against an exoplanet dataset transformed into Postgres.
 - name: Cardiac Disease Risk
-  link: https://github.com/SDLoyd/CardioProject
+  link: https://sdloyd.github.io/CardioProject/
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/heart.png
   description: This project uses a Kaggle dataset to train a model to predict heart disease.
 - name: Open Weather API 
