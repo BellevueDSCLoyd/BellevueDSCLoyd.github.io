@@ -23,7 +23,7 @@
   link: https://github.com/SDLoyd/CardiacRandomForest
   description: Classifying cardiac disease using a random forest model.
 - name: Finding Exoplanets
-  link: https://github.com/SDLoyd/Exoplanets
+  link: https://sdloyd.github.io/Exoplanets/
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/exoplanets.jpg
   description: Data wrangling against an exoplanet dataset transformed into Postgres.
 - name: Cardiac Disease Risk
