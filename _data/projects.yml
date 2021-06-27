@@ -5,7 +5,7 @@
 - name: Detecting Fake News
   link:  https://github.com/SDLoyd/FakeNews  
   image: //raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/news.jpg
-  description: Using Natural Language Processing to cut trhough the BS! Under Construction! 
+  description: Using Natural Language Processing to cut through the BS! Under Construction! 
 - name: Predicting Stroke Risk
   link: https://github.com/SDLoyd/Stroke
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/stroke.jpg
