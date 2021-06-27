@@ -37,4 +37,4 @@
 - name: Police Shooting Fatalities
   link: https://sdloyd.github.io/LawEnforcement/
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/police.jpg
-  description: Analyzing and Predicting the risk of fatalities caused by the police.
+  description: Analyzing the risk of fatalities caused by the police.
