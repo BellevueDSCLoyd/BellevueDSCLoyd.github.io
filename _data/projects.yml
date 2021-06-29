@@ -1,7 +1,7 @@
-- name: Dangerous Asteroid?
+- name: Dangerous Paths
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/comet.jpg
   link:
-  description: Under Construction. Coming Soon! Please check back later.
+  description: Does an asteroid threaten us in the future? Under Construction!
 - name: Detecting Fake News
   link:  https://github.com/SDLoyd/FakeNews  
   image: //raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/news.jpg
