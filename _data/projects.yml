@@ -13,7 +13,7 @@
 - name: Greenhouse Gases
   link: https://sdloyd.github.io/GreenhouseGas/
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/climatechange.jpg
-  description: A visual exploration of climate change data explaining the crisis.
+  description: A richly visual exploration of climate change data explaining the crisis.
 - name: Small Business Loan Data 
   link: https://sdloyd.github.io/SBALoan/
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/loan.jpg
