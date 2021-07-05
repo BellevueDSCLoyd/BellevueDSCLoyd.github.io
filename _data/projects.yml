@@ -1,8 +1,8 @@
-- name: Dangerous Paths
+- name: Dangerous Crossings Ahead?
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/comet.jpg
   link:
   description: Does an asteroid threaten us in the future? Under Construction!
-- name: Detecting Fake News
+- name: Detecting Fake News with NLP
   link:  https://github.com/SDLoyd/FakeNews  
   image: //raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/news.jpg
   description: Using Natural Language Processing to cut through the BS! Under Construction! 
