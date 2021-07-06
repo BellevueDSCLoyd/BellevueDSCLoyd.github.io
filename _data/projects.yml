@@ -3,7 +3,7 @@
   link:
   description: Does an orbit crossing asteroid threaten Earth? Under Construction!
 - name: Detecting Fake News with NLP
-  link:  https://github.com/SDLoyd/FakeNews  
+  link:  https://sdloyd.github.io/FakeNews/
   image: //raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/news.jpg
   description: Using Natural Language Processing to cut through the BS! Under Construction! 
 - name: Predicting Stroke Risk
