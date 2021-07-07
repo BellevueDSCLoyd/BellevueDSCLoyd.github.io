@@ -10,14 +10,14 @@
   link: https://sdloyd.github.io/Stroke
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/stroke.jpg
   description: Predicting stroke risk with a machine learning  classification model. 
-- name: Greenhouse Gas 
+- name: Greenhouse Emissions 
   link: https://sdloyd.github.io/GreenhouseGas/
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/climatechange.jpg
   description: A visual exploration of climate change explaining the impending crisis.
 - name: Small Business Loan Data 
   link: https://sdloyd.github.io/SBALoan/
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/loan.jpg
-  description: Using Predictive Analytics to predict loan repayment and job creation.
+  description: Using Predictive Analytics to forecast loan repayment and job creation.
 - name: A Random Forest Model
   image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/randomforest.jpg
   link: https://sdloyd.github.io/CardiacRandomForest/
