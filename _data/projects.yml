@@ -3,7 +3,7 @@
   link:
   description: Can regression tell you how stressed your employees are? Under Construction!
 - name: Spot Fake News with NLP
-  link:  https://sdloyd.github.io/FakeNews/
+  link:  https://sdloyd.github.io/Burnout/
   image: //raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/news.jpg
   description: Using Natural Language Processing or NLP to cut through the BS.
 - name: Predicting Stroke Risk
