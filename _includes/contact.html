@@ -1,5 +1,8 @@
-<section class="hero is-fullheight has-text-centered" id="contact">
+<section class="hero has-text-centered" id="contact">
     <div class="hero-body">
+            <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
+                I look forward to hearing from you
+            </h3>
         <div class="container">
             {% unless site.facebook_username == %}
             <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
@@ -24,7 +27,7 @@
             {% endunless %}
             <hr>
             <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
-                You Can find me here
+                You can find me here
             </h3>
             <div class="column is-full is-size-3">
                 {% unless site.facebook_username == %}
@@ -57,6 +60,7 @@
                 {% unless site.spotify_username ==  %}
                 <a href="http://open.spotify.com/user/{{site.spotify_username}}" target="_blank" class="has-text-black"><i class="fab fa-spotify"></i></a>
                 {% endunless %}
+		<br>
             </div>
         </div>
     </div>
