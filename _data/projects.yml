@@ -1,7 +1,7 @@
-- name: Dangerous Crossings?
-  image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/comet.jpg
+- name: Corporate Burnout
+  image: https://raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/burnout.jpg
   link:
-  description: Does an orbit crossing asteroid threaten Earth? Under Construction!
+  description: How stressed are your employees? Under Construction!
 - name: Spot Fake News with NLP
   link:  https://sdloyd.github.io/FakeNews/
   image: //raw.githubusercontent.com/SDLoyd/SDLoyd.github.io/master/assets/images/news.jpg
